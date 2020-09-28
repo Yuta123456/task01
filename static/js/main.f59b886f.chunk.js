@@ -1,0 +1,2 @@
+(this.webpackJsonptask01=this.webpackJsonptask01||[]).push([[0],{3:function(t,e,n){t.exports=n(4)},4:function(t,e,n){"use strict";n.r(e);var o=n(0),s=n.n(o),a=n(2),c=n.n(a);n(9);c.a.render(s.a.createElement("h1",null,"Hello React!"),document.getElementById("root"))},9:function(t,e,n){}},[[3,1,2]]]);
+//# sourceMappingURL=main.f59b886f.chunk.js.map
